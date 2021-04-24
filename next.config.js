@@ -1,5 +1,6 @@
 module.exports = {
-    env: {
-      NEXT_APP_APIKEY: process.env.NEXT_APP_APIKEY,
-    },
-  };
+  env: {
+    NEXT_APP_APIKEY: process.env.NEXT_APP_APIKEY,
+  },
+  distDir: "out",
+};
