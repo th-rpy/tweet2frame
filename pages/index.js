@@ -8,8 +8,21 @@ import Header from "../components/Header";
 import Main from "../components/Main";
 import Settings from "../components/Settings";
 import Footer from "../components/Footer";
+import { FaYoutube, FaFacebook, FaTwitter } from "react-icons/fa"
 
-import { Text, Box, Flex } from "@chakra-ui/react";
+import { Text, Box, Flex, HStack, Button, ButtonGroup } from "@chakra-ui/react";
+
+import {
+  Card,
+  CardImg,
+  NavItem,
+  NavLink,
+  Nav,
+  Container,
+  Row,
+  Col,
+  UncontrolledTooltip,
+} from "reactstrap";
 
 function App() {
   const [bg, setBg] = useState(
@@ -134,17 +147,23 @@ function App() {
         {!hint && <Settings props={propsForSettings} />}
       </Flex>
 
+       <Footer></Footer>
+
       <footer>
-        
-        <Text px="1rem" className="i" color="blue" fontSize="lg">
-          Thank you for supporting us!
+        <Text px="1rem" className="i" color="blue.200" fontSize="lg">
+          
         </Text>
-        <Text px="1rem" className="i" color="gray.500" fontSize="lg" isTruncated>
+        <Text
+          px="1rem"
+          className="i"
+          color="gray.500"
+          fontSize="lg"
+          isTruncated
+        >
           Let's get in touch on any of these platforms.
         </Text>
 
         <hr></hr>
-
 
         <Text px="1rem" className="i" color="gray.500" fontSize="lg">
           Made with Love 💜 by{" "}
@@ -157,7 +176,6 @@ function App() {
           </a>
           .
         </Text>
-        
       </footer>
     </Box>
   );
