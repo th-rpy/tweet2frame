@@ -7,6 +7,7 @@ import { saveAs } from "file-saver";
 import Header from "../components/Header";
 import Main from "../components/Main";
 import Settings from "../components/Settings";
+import Footer from "../components/Footer";
 
 import { Text, Box, Flex } from "@chakra-ui/react";
 
@@ -135,6 +136,7 @@ function App() {
 
 
       <footer>
+        <Footer></Footer>
         <Text px="1rem" className="i" color="gray.500" fontSize="lg">
           Made with Love 💜 by{" "}
           <a href="https://reactjs.org/" rel="noreferrer" target="_blank">
