@@ -6,7 +6,13 @@
 ![Chakra UI](https://img.shields.io/badge/Twitter-API-1DA1F2)
 
 
-[Check out the website](https://tweet2frame.vercel.app/). 
+[Check out the website](https://tweet2frame.vercel.app/).
+
+### The Home Page
+<img src="https://github.com/th-rpy/tweet2frame/blob/main/screenshots/home.gif" />
+
+### Customising tweets's looks
+<img src="https://github.com/th-rpy/tweet2frame/blob/main/screenshots/res.jpeg" />
 
 
 ## What it does?
