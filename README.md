@@ -14,8 +14,8 @@ FraTwi is a simple web app made with **ReactJs, Twitter API and Chakra UI** that
 
 ### The Home Page
 
-<img src="https://github.com/th-rpy/tweet2frame/blob/main/screenshots/home.gif" />
+<img src="https://github.com/th-rpy/tweet2frame/blob/main/screenshots/home_1.gif" />
 
 ### Customising tweets's looks
 
-<img src="https://github.com/th-rpy/tweet2frame/blob/main/screenshots/res.jpeg" />
+<img src="https://github.com/th-rpy/tweet2frame/blob/main/screenshots/res_1.svg" />
