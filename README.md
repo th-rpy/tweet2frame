@@ -6,7 +6,7 @@
 ![Chakra UI](https://img.shields.io/badge/Twitter-API-1DA1F2)
 
 
-[Check out the website](http://twipix.vercel.app). 
+[Check out the website](http://). 
 
 
 ## What it does?
