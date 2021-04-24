@@ -5,32 +5,32 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/-rkJc-Ht5LZzBfEDwnn22/_buildManifest.js",
-    "static/-rkJc-Ht5LZzBfEDwnn22/_ssgManifest.js"
+    "static/NH36BfKc-PtzaoircLthX/_buildManifest.js",
+    "static/NH36BfKc-PtzaoircLthX/_ssgManifest.js"
   ],
   "pages": {
     "/": [
       "static/chunks/webpack-245f049e565ebf942e09.js",
-      "static/chunks/framework.4b81eedf2fcdb09bf521.js",
+      "static/chunks/framework.6fff953eb0f638171baa.js",
       "static/chunks/commons.df015f22ac9f99f851e4.js",
       "static/chunks/f6078781a05fe1bcb0902d23dbbb2662c8d200b3.31076d9bc76ae4cae762.js",
       "static/chunks/main-ddeb60debac3b56cfe82.js",
-      "static/chunks/71247caf95475e3ea7f9a0f8a30beb258b23d005.d4746084776a8de10d39.js",
-      "static/chunks/pages/index-95605284a715d6704dad.js"
+      "static/chunks/71247caf95475e3ea7f9a0f8a30beb258b23d005.b0f1954c27d00719d2f2.js",
+      "static/chunks/pages/index-a389978579b710d43e30.js"
     ],
     "/_app": [
       "static/chunks/webpack-245f049e565ebf942e09.js",
-      "static/chunks/framework.4b81eedf2fcdb09bf521.js",
+      "static/chunks/framework.6fff953eb0f638171baa.js",
       "static/chunks/commons.df015f22ac9f99f851e4.js",
       "static/chunks/f6078781a05fe1bcb0902d23dbbb2662c8d200b3.31076d9bc76ae4cae762.js",
       "static/chunks/main-ddeb60debac3b56cfe82.js",
-      "static/chunks/71247caf95475e3ea7f9a0f8a30beb258b23d005.d4746084776a8de10d39.js",
+      "static/chunks/71247caf95475e3ea7f9a0f8a30beb258b23d005.b0f1954c27d00719d2f2.js",
       "static/css/d51d3fd431466a921341.css",
       "static/chunks/pages/_app-1d201c038c906f6e42f8.js"
     ],
     "/_error": [
       "static/chunks/webpack-245f049e565ebf942e09.js",
-      "static/chunks/framework.4b81eedf2fcdb09bf521.js",
+      "static/chunks/framework.6fff953eb0f638171baa.js",
       "static/chunks/commons.df015f22ac9f99f851e4.js",
       "static/chunks/f6078781a05fe1bcb0902d23dbbb2662c8d200b3.31076d9bc76ae4cae762.js",
       "static/chunks/main-ddeb60debac3b56cfe82.js",

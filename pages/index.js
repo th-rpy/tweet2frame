@@ -134,9 +134,7 @@ function App() {
         {!hint && <Settings props={propsForSettings} />}
       </Flex>
 
-
       <footer>
-        <Footer></Footer>
         <Text px="1rem" className="i" color="gray.500" fontSize="lg">
           Made with Love 💜 by{" "}
           <a href="https://reactjs.org/" rel="noreferrer" target="_blank">
@@ -148,6 +146,13 @@ function App() {
           </a>
           .
         </Text>
+        <hr></hr>
+        <Text px="1rem" className="i" color="gray.500" fontSize="lg">
+                  Thank you for supporting us!
+                </Text>
+                <Text px="1rem" className="i" color="gray.500" fontSize="lg">
+                  Let's get in touch on any of these platforms.
+                </Text>
       </footer>
     </Box>
   );
