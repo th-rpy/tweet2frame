@@ -7,7 +7,6 @@ import { saveAs } from "file-saver";
 import Header from "../components/Header";
 import Main from "../components/Main";
 import Settings from "../components/Settings";
-import Profile from "../components/Profile.jsx";
 
 import { Text, Box, Flex } from "@chakra-ui/react";
 
