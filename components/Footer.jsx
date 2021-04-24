@@ -56,7 +56,7 @@ export const Footer = () => (
           fontSize="md"
           isTruncated
         >
-          Thank you for supporting us!
+          Thank you for supporting me!
         </Text>
     <Stack mt={4} direction="row" spacing="12px" justify="center">
       {links.map((link) => (

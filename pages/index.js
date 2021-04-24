@@ -8,7 +8,7 @@ import Header from "../components/Header";
 import Main from "../components/Main";
 import Settings from "../components/Settings";
 import Footer from "../components/Footer";
-import { FaYoutube, FaFacebook, FaTwitter } from "react-icons/fa"
+import { FaYoutube, FaFacebook, FaTwitter } from "react-icons/fa";
 
 import { Text, Box, Flex, HStack, Button, ButtonGroup } from "@chakra-ui/react";
 
@@ -147,36 +147,7 @@ function App() {
         {!hint && <Settings props={propsForSettings} />}
       </Flex>
 
-       <Footer></Footer>
-
-      <footer>
-        <Text px="1rem" className="i" color="blue.200" fontSize="lg">
-          
-        </Text>
-        <Text
-          px="1rem"
-          className="i"
-          color="gray.500"
-          fontSize="lg"
-          isTruncated
-        >
-          Let's get in touch on any of these platforms.
-        </Text>
-
-        <hr></hr>
-
-        <Text px="1rem" className="i" color="gray.500" fontSize="lg">
-          Made with Love 💜 by{" "}
-          <a href="https://reactjs.org/" rel="noreferrer" target="_blank">
-            ReactJs
-          </a>
-          . Check out on{" "}
-          <a href="https://github.com/th-rpy" rel="noreferrer" target="_blank">
-            Github
-          </a>
-          .
-        </Text>
-      </footer>
+      <Footer></Footer>
     </Box>
   );
 }
